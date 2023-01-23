@@ -95,7 +95,9 @@
 			isa = PBXGroup;
 			children = (
 				975DBC7E2976F56E000B775D /* Country_Flag_GameApp.swift */,
-				975DBC802976F56E000B775D /* ContentView.swift */,
+				97998CA4297EDB9C009435C4 /* Views */,
+				97998CA6297EDC4C009435C4 /* Models */,
+				97998CA7297EE3CA009435C4 /* Components */,
 				975DBC822976F56F000B775D /* Assets.xcassets */,
 				975DBC842976F56F000B775D /* Preview Content */,
 			);
@@ -125,6 +127,28 @@
 				975DBC9B2976F570000B775D /* Country_Flag_GameUITestsLaunchTests.swift */,
 			);
 			path = "Country Flag GameUITests";
+			sourceTree = "<group>";
+		};
+		97998CA4297EDB9C009435C4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				975DBC802976F56E000B775D /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		97998CA6297EDC4C009435C4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		97998CA7297EE3CA009435C4 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
