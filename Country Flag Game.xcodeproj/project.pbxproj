@@ -15,6 +15,7 @@
 		975DBC9A2976F570000B775D /* Country_Flag_GameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975DBC992976F570000B775D /* Country_Flag_GameUITests.swift */; };
 		975DBC9C2976F570000B775D /* Country_Flag_GameUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975DBC9B2976F570000B775D /* Country_Flag_GameUITestsLaunchTests.swift */; };
 		97998CAD297EE6A9009435C4 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97998CAC297EE6A9009435C4 /* Question.swift */; };
+		97998CAF298C133D009435C4 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97998CAE298C133D009435C4 /* CustomButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		975DBC992976F570000B775D /* Country_Flag_GameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country_Flag_GameUITests.swift; sourceTree = "<group>"; };
 		975DBC9B2976F570000B775D /* Country_Flag_GameUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country_Flag_GameUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		97998CAC297EE6A9009435C4 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Question.swift; path = "Country Flag Game/Question.swift"; sourceTree = SOURCE_ROOT; };
+		97998CAE298C133D009435C4 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 		97998CA7297EE3CA009435C4 /* Components */ = {
 			isa = PBXGroup;
 			children = (
+				97998CAE298C133D009435C4 /* CustomButton.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97998CAF298C133D009435C4 /* CustomButton.swift in Sources */,
 				97998CAD297EE6A9009435C4 /* Question.swift in Sources */,
 				975DBC812976F56E000B775D /* ContentView.swift in Sources */,
 				975DBC7F2976F56E000B775D /* Country_Flag_GameApp.swift in Sources */,
