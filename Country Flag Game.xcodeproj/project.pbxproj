@@ -19,6 +19,7 @@
 		97998CB1298C14A1009435C4 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97998CB0298C14A1009435C4 /* ProgressBar.swift */; };
 		97998CB3298C162F009435C4 /* AnswerRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97998CB2298C162F009435C4 /* AnswerRow.swift */; };
 		97E7BE0D299D31FC004795A0 /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97E7BE0C299D31FC004795A0 /* QuestionView.swift */; };
+		97E7BE0F299D34F7004795A0 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97E7BE0E299D34F7004795A0 /* Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		97998CB0298C14A1009435C4 /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
 		97998CB2298C162F009435C4 /* AnswerRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerRow.swift; sourceTree = "<group>"; };
 		97E7BE0C299D31FC004795A0 /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
+		97E7BE0E299D34F7004795A0 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Data.swift; path = "Country Flag Game/Views/Data.swift"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +154,7 @@
 			isa = PBXGroup;
 			children = (
 				97998CAC297EE6A9009435C4 /* Question.swift */,
+				97E7BE0E299D34F7004795A0 /* Data.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 				97998CB1298C14A1009435C4 /* ProgressBar.swift in Sources */,
 				97998CB3298C162F009435C4 /* AnswerRow.swift in Sources */,
 				975DBC7F2976F56E000B775D /* Country_Flag_GameApp.swift in Sources */,
+				97E7BE0F299D34F7004795A0 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
