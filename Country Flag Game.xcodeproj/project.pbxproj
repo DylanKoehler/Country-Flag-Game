@@ -18,6 +18,7 @@
 		97998CAF298C133D009435C4 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97998CAE298C133D009435C4 /* CustomButton.swift */; };
 		97998CB1298C14A1009435C4 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97998CB0298C14A1009435C4 /* ProgressBar.swift */; };
 		97998CB3298C162F009435C4 /* AnswerRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97998CB2298C162F009435C4 /* AnswerRow.swift */; };
+		97E7BE0D299D31FC004795A0 /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97E7BE0C299D31FC004795A0 /* QuestionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		97998CAE298C133D009435C4 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 		97998CB0298C14A1009435C4 /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
 		97998CB2298C162F009435C4 /* AnswerRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerRow.swift; sourceTree = "<group>"; };
+		97E7BE0C299D31FC004795A0 /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 			isa = PBXGroup;
 			children = (
 				975DBC802976F56E000B775D /* ContentView.swift */,
+				97E7BE0C299D31FC004795A0 /* QuestionView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -296,6 +299,7 @@
 				97998CAF298C133D009435C4 /* CustomButton.swift in Sources */,
 				97998CAD297EE6A9009435C4 /* Question.swift in Sources */,
 				975DBC812976F56E000B775D /* ContentView.swift in Sources */,
+				97E7BE0D299D31FC004795A0 /* QuestionView.swift in Sources */,
 				97998CB1298C14A1009435C4 /* ProgressBar.swift in Sources */,
 				97998CB3298C162F009435C4 /* AnswerRow.swift in Sources */,
 				975DBC7F2976F56E000B775D /* Country_Flag_GameApp.swift in Sources */,
