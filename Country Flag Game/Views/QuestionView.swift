@@ -38,6 +38,7 @@ struct QuestionView: View {
                 .disabled(!quizManager.answerSelected)
             }
             .padding()
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
             .background(.cyan)
         }
         else {
