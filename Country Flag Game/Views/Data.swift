@@ -67,14 +67,6 @@ struct Data {
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "France", isCorrect: true),
-                 incorrectAnswers: [
-                    Answer(text: "Tanzania", isCorrect: false),
-                    Answer(text: "Cyprus", isCorrect: false),
-                    Answer(text: "Saudi Arabia", isCorrect: false)
-                 ])
-        ,
-        Question(correctAnswer:
                     Answer(text: "Greece", isCorrect: true),
                  incorrectAnswers: [
                     Answer(text: "Saint Helena", isCorrect: false),
