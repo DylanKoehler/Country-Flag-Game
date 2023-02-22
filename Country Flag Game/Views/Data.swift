@@ -177,5 +177,45 @@ struct Data {
                     Answer(text: "Germany", isCorrect: false),
                     Answer(text: "Rwanda", isCorrect: false)
                  ])
+        ,
+        Question(correctAnswer:
+                    Answer(text: "Colombia", isCorrect: true),
+                 incorrectAnswers: [
+                    Answer(text: "Guam", isCorrect: false),
+                    Answer(text: "Saint Helena", isCorrect: false),
+                    Answer(text: "Maldives", isCorrect: false)
+                 ])
+        ,
+        Question(correctAnswer:
+                    Answer(text: "Eswatini", isCorrect: true),
+                 incorrectAnswers: [
+                    Answer(text: "Guinea", isCorrect: false),
+                    Answer(text: "Luxembourg", isCorrect: false),
+                    Answer(text: "Zimbabwe", isCorrect: false)
+                 ])
+        ,
+        Question(correctAnswer:
+                    Answer(text: "Fiji", isCorrect: true),
+                 incorrectAnswers: [
+                    Answer(text: "Argentina", isCorrect: false),
+                    Answer(text: "Ethiopia", isCorrect: false),
+                    Answer(text: "South Korea", isCorrect: false)
+                 ])
+        ,
+        Question(correctAnswer:
+                    Answer(text: "Finland", isCorrect: true),
+                 incorrectAnswers: [
+                    Answer(text: "South Africa", isCorrect: false),
+                    Answer(text: "Lebanon", isCorrect: false),
+                    Answer(text: "Kuwait", isCorrect: false)
+                 ])
+        ,
+        Question(correctAnswer:
+                    Answer(text: "Hungary", isCorrect: true),
+                 incorrectAnswers: [
+                    Answer(text: "Russia", isCorrect: false),
+                    Answer(text: "Czech Republic", isCorrect: false),
+                    Answer(text: "Colombia", isCorrect: false)
+                 ])
     ]
 }
